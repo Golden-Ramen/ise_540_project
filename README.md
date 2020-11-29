@@ -16,8 +16,6 @@ It requires the user_loc feature in tweets, and stantardize location with geotex
 
 ### Clustering_LSTM.ipynb
 The file is for clustering part of the predictions of LSTM.
-It includes generating total negative and positive tweets, doing feature extraction and K-means on two kinds of tweets and outputting sample tweets of each cluster.
-The WordCloud of each cluster's sample tweets is plotted in 'Feature Extraction & KMeans Clustering' block.
+It includes generating total negative and positive tweets, doing feature extraction and K-means on two kinds of tweets and outputting all tweets of each cluster.
+The WordCloud of each cluster's sample tweets is plotted in 'Sampling' block.
 
-### Sample_tweets.ipynb
-The file is for getting sample tweets of each cluster for further human interpretation.
