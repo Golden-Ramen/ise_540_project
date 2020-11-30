@@ -4,8 +4,6 @@ This Repository includes the code and dataset used in Covid-19 Vaccin Hesitancy 
 ### data_prepare.ipynb 
 This file is for first step analysis of data distribution, getting to know the percentage of useful data and informations for the data cleaning step. 
 
-### clean_text.ipynb
-
 ### Classifier_Yuesheng_Luo.ipynb
 The file includes code for vectorizing tweets to sentence vectors and training with prediction models. 
 Execute the TFIDF tokenization and Word2Vec embedding seperatly to get different vectorization for model training. 'Model Selection' block will give the metrics for each supervised learning method. 'Select Model Parameter' block returns the best parameter of the selected model. 'Prediction' generates the predicted result in .pkl format.\
@@ -26,7 +24,7 @@ This file contains the sample of each cluster of BTM topics. These tweets are pr
 This zip file contains the final prediciton from LSTM, both in pkl format and csv format. 
 
 ### covid_btm.zip
-This zip file contains the BTM algorithm files as well as the trained result.
+This zip file contains the BTM algorithm files as well as the trained results such as BTM_topic_result.txt.
 
 ### Classifier_Yifan_He.ipynb
 This file mainly builds the LSTM model, generate predicted set, visualize the BTM topic models and generate BTM topic sample sets.
