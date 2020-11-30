@@ -26,7 +26,7 @@ This file contains the sample of each cluster of BTM topics. These tweets are pr
 This zip file contains the final prediciton from LSTM, both in pkl format and csv format. 
 
 ### covid_btm.zip
-This zip file contains the btm algorithm files.
+This zip file contains the BTM algorithm files as well as the trained result.
 
 ### Classifier_Yifan_He.ipynb
 This file mainly builds the LSTM model, generate predicted set, visualize the BTM topic models and generate BTM topic sample sets.
