@@ -1,4 +1,6 @@
 # ise_540_project: Covid-19 Vaccine Hesistancy analysis
+## flow of the project:
+![Alt text](./flow-chart-540.png?raw=true "Title")
 ## Yuesheng Luo, Linzhi Xi, Yifan He
 This Repository includes the code and dataset used in Covid-19 Vaccin Hesitancy Analysis
 ### data_prepare.ipynb 
