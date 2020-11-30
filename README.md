@@ -2,7 +2,7 @@
 ## Yuesheng Luo, Linzhi Xi, Yifan He
 This Repository includes the code and dataset used in Covid-19 Vaccin Hesitancy Analysis
 ## flow of the project:
-![Alt text](./flow-chart-540.png?raw=300x200)
+![Alt text](./flow-chart-540.png?raw=200x100)
 
 ### data_prepare.ipynb 
 This file is for first step analysis of data distribution, getting to know the percentage of useful data and informations for the data cleaning step. 
